@@ -17,9 +17,9 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-a {
+nav > a {
   /*display: block; /* Make the links appear below each other instead of side-by-side */
-  display: block;
+  display:block;
   float: none;
     /*position:absolute;*/
     top: 50%;
@@ -34,6 +34,6 @@ font-size: 16px; /* Increased font-size */
 
 #details > a {
   display: block;
-  font-size: 30px;
+  font-size: 16px;
 
 }
