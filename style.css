@@ -19,6 +19,7 @@ img {
 }
 a {
   /*display: block; /* Make the links appear below each other instead of side-by-side */
+  display: block;
   float: none;
     /*position:absolute;*/
     top: 50%;
