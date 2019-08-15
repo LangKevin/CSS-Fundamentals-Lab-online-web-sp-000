@@ -32,7 +32,16 @@ color: black; /* White text color */
 font-size: 16px; /* Increased font-size */
 }
 
-h3 ~ p {
+h3 ~ a {
   /*display: block;*/
-  color: red;
+  float: none;
+    /*position:absolute;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; /* Center-align text */
+padding: 16px; /* Add some padding */
+transition: all 0.3s ease; /* Add transition for hover effects */
+color: black; /* White text color */
+font-size: 16px; /* Increased font-size */
 }
