@@ -32,7 +32,7 @@ color: black; /* White text color */
 font-size: 16px; /* Increased font-size */
 }
 
-#details > a {
+#details ~ a {
   /*display: block;*/
   font-size: 16px;
   color: black; 
