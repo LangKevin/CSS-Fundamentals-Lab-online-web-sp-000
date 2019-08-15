@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 #featured-property > p {
-  color: blue;
+  /*color: blue;*/
   text-align: center;
   width: 800px
 }
