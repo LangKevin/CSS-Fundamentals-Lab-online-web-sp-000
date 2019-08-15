@@ -15,7 +15,7 @@ img {
 a {
   /*display: block; /* Make the links appear below each other instead of side-by-side */
   float: none;
-    /*position: absolute;*/
+    position:absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
