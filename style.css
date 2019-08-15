@@ -32,7 +32,7 @@ color: black; /* White text color */
 font-size: 16px; /* Increased font-size */
 }
 
-h3 ~ p {
+h3 ~ a {
   /*display: block;*/
   color: red;
 }
