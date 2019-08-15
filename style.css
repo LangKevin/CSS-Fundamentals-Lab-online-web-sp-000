@@ -33,7 +33,7 @@ font-size: 16px; /* Increased font-size */
 }
 
 #details > a {
-  display: block;
+  /*display: block;*/
   font-size: 16px;
 
 }
