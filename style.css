@@ -30,3 +30,8 @@ transition: all 0.3s ease; /* Add transition for hover effects */
 color: black; /* White text color */
 font-size: 16px; /* Increased font-size */
 }
+
+#details > a {
+  display: block;
+
+}
